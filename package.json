@@ -51,6 +51,7 @@
     "react": "16.x"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.149",
     "@typescript-eslint/eslint-plugin": "^2.4.0",
     "check-prettier": "^1.0.3",
     "eslint": "^6.5.1",
@@ -63,6 +64,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@umijs/fabric": "^1.2.1"
+    "@antv/g6": "^3.2.3",
+    "@umijs/fabric": "^1.2.1",
+    "antd": "^3.25.3",
+    "lodash": "^4.17.15"
   }
 }
